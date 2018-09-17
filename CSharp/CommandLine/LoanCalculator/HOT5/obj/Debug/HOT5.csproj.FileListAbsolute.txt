@@ -1,0 +1,7 @@
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\bin\Debug\HOT5.exe.config
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\bin\Debug\HOT5.exe
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\bin\Debug\HOT5.pdb
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\obj\Debug\HOT5.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\obj\Debug\HOT5.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\obj\Debug\HOT5.exe
+C:\Users\Doug\Desktop\School\C# School\tests\HOT5\HOT5\obj\Debug\HOT5.pdb

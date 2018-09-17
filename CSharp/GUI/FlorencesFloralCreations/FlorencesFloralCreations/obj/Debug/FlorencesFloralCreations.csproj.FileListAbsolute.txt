@@ -1,0 +1,10 @@
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.exe.config
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\bin\Debug\FlorencesFloralCreations.pdb
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.Form1.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.Properties.Resources.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.csproj.GenerateResource.Cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.pdb
+C:\Users\Doug\Desktop\School\C# School\Chapter 13\FlorencesFloralCreations\FlorencesFloralCreations\obj\Debug\FlorencesFloralCreations.csprojResolveAssemblyReference.cache

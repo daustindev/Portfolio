@@ -1,0 +1,10 @@
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\bin\Debug\FontSelector.exe.config
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\bin\Debug\FontSelector.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\bin\Debug\FontSelector.pdb
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.Form1.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.Properties.Resources.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.csproj.GenerateResource.Cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FontSelector\FontSelector\obj\Debug\FontSelector.pdb

@@ -1,0 +1,9 @@
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\bin\Debug\FiveColors2.exe.config
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\bin\Debug\FiveColors2.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\bin\Debug\FiveColors2.pdb
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.Form1.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.Properties.Resources.resources
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.csproj.GenerateResource.Cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.exe
+C:\Users\Doug\Desktop\School\C# School\Chapter 12\FiveColors2\FiveColors2\obj\Debug\FiveColors2.pdb
